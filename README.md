@@ -1,7 +1,7 @@
 # sports-diary-app
-**Project based on:  
+Project based on:  
   * CRUD operations;
   * MySql;
   * JavaFX
-  * developing backend and frontend**
+  * developing backend and frontend
 ##
