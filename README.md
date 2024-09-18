@@ -1,2 +1,2 @@
 # sports-diary-app
-**developing backend and frontend;**
+**developing backend branch;**
