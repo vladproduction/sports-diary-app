@@ -1,4 +1,7 @@
 # sports-diary-app
-
-Sport app (developing backend and frontend):
--create, update, delete exercises;
+**Project based on:  
+  * CRUD operations;
+  * MySql;
+  * JavaFX
+  * developing backend and frontend**
+##
